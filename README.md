@@ -18,7 +18,7 @@ Git for version control
 
 💻 How to Run
 1️⃣ Clone this repository:
-https://github.com/Luckybisht2811/API-Rate-limiter-Decorator/edit/main/README.md
+https://github.com/Luckybisht2811/API-Rate-limiter-Decorator
 cd your-repo-name
 
 2️⃣ Install dependencies:
